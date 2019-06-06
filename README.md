@@ -8,8 +8,12 @@
 # 产品
 ![image](https://github.com/levislin2016/du-app-sign/blob/master/product.png)
 
-# 各产品尺码价格。每日爬取
+# 各产品尺码价格。
 ![image](https://github.com/levislin2016/du-app-sign/blob/master/size.png)
+
+# 各产品尺码销量。
+![image](https://github.com/levislin2016/du-app-sign/blob/master/sold.png)
+
 
 # 建议、交流
 ![image](https://github.com/levislin2016/du-app-sign/blob/master/wechat.jpg)
