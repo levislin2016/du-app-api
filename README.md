@@ -10,3 +10,6 @@
 
 # 各产品尺码价格。每日爬取
 ![image](https://github.com/levislin2016/du-app-sign/blob/master/size.png)
+
+# 欢迎建议、交流
+![image](https://github.com/levislin2016/du-app-sign/blob/master/wechat.jpg)
