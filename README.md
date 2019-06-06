@@ -4,5 +4,8 @@
 由于其中有个重要参数是参与sign加密。加密后的sign可直接拼接接口使用。
 仅供学习使用。不做公开。
 
-# 数据库截图
+# 产品
 ![image](https://github.com/levislin2016/du-app-sign/blob/master/product.png)
+
+# 各产品尺码价格。每日爬取
+![image](https://github.com/levislin2016/du-app-sign/blob/master/size.png)
